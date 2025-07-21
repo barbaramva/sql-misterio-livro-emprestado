@@ -12,7 +12,7 @@ Usei consultas SQL para analisar os dados e encontrar o suspeito.
 - `1_criacao_tabelas.sql`   ---> Criação das tabelas do banco
 - `2_inserindo_dados.sql`   ---> Inserção dos dados no banco
 - `3_consulta-misterio.sql` ---> Consultas que ajudam na investigação
-- `imagens/`:               ---> Prints da execução no ambiente SQLiteOnline
+- `imagens/`              ---> Prints da execução no ambiente SQLiteOnline
 
 ## 🧩 Objetivo
 
