@@ -2,7 +2,7 @@
 
 ## 🧩 SQL Mystery – O Caso do Manuscrito Perdido
 
-Neste desafio de SQL, meu objetivo foi investigar o desaparecimento de um manuscrito raro na Biblioteca Central.
+Neste desafio de SQL, meu objetivo foi investigar o desaparecimento de um manuscrito raro na Biblioteca Central (resolução de um caso fictício)
 Apenas pessoas autorizadas tiveram acesso ao local naquela noite, e usando os registros de empréstimos, presença e convidados, busquei descobrir quem levou o manuscrito.
 
 Usei consultas SQL para analisar os dados e encontrar o suspeito.
