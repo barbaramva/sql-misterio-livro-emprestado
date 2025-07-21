@@ -50,5 +50,5 @@ Ao final da investigação, identificamos que **Beatriz** provavelmente foi a pe
 
 ---
 
-Projeto desenvolvido por [Barbara Angélica], participante do Bootcamp Data Girls Restart
-🎓 Exercício realizado durante o bootcamp.
+Projeto desenvolvido por mim, participante do Bootcamp 
+🎓 Exercício realizado durante o bootcamp Data Girls Restart
